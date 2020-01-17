@@ -1,0 +1,19 @@
+body {
+    background-color: pink;
+}
+
+.crystal {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.winsandlosses {
+    text-align: center;
+    font-family: cursive;
+}
+
+.Jumbotron {
+    text-align: center;
+    font-family: cursive;
+    padding-top: 50px;
+}
